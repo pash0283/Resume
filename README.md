@@ -6,6 +6,13 @@
 **"There is not knowledge that is not power."**
 
 ## 🚀 Skills
+- Network & System Administration
+- Knowledge of Operating System
+- Network Security Control
+- Coding Skills
+- Cloud Security
+
+## 🚀 Hards
 - Linux
 - Cybersecurity
 - Git
