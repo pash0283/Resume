@@ -6,11 +6,11 @@
 **"There is not knowledge that is not power."**
 
 ## 🚀 Skills
-- Network & System Administration
-- Knowledge of Operating System
-- Network Security Control
-- Coding Skills
-- Cloud Security
+- Сети и администрирование (Network & System Administration)
+- знание операционных систем (Knowledge of Operating System)
+- сетевая безопасность (Network Security Control)
+- кодинг и уязвимости (Coding Skills)
+- облачная безопасность (Cloud Security)
 
 ## 🚀 Hards
 - Linux
@@ -18,6 +18,12 @@
 - Git
 - Python
 - Docker
+- Greenbon
+- Zabbix
+- Grafana
+- Wazuh
+- ELK Stack
+- 
 
 ## 🔗 Connect with Me
 
