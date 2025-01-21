@@ -27,7 +27,7 @@
 
 ## 🔗 Connect with Me
 
-[<img src="./assets/linkedin-48x48.png" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/pash-shalyga-075804342)
+[<img src="./assets/linkedin-48x48.png" alt="LinkedIn" width="40" height="40">](https://linkedin.com/in/p-shalyha)
 [<img src="./assets/telegram-48x48.png" alt="Telegram" width="40" height="40">](https://telegram.org/p1sh1s)
 
 Feel free to reach out! Let's connect and collaborate on exciting projects.
