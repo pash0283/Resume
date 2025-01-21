@@ -54,3 +54,7 @@ Feel free to reach out! Let's connect and collaborate on exciting projects.
 - [Cyber Security](https://github.com/pash0283/Cyb04): Want to learn **TeachMeSkill**, start here.
 ---
 ⭐️ Feel free to explore my repositories and get in touch! ⭐️
+
+Резюме   https://www.canva.com/design/DAGcb3WOeRo/SioIFJrDfmf9ZAlMxFCmAA/edit
+
+![sh](https://github.com/user-attachments/assets/a3b0b0ce-4861-42fc-885b-0888064a8cb9)
